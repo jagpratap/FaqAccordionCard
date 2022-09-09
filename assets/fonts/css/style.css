@@ -1,0 +1,15 @@
+/*--------------------------KUMBH_SANS--------------------------*/
+
+/* 700 */
+@font-face {
+  font-family: "Kumbh_Sans, Bold";
+  src: url("../families/kumbhSans/KumbhSans-Bold.ttf") format("truetype");
+}
+
+/* 400 */
+@font-face {
+  font-family: "Kumbh_Sans, Regular";
+  src: url("../families/kumbhSans/KumbhSans-Regular.ttf") format("truetype");
+}
+
+/*--------------------------KUMBH_SANS--------------------------*/
