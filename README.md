@@ -1,1 +1,2 @@
-### A Basic refactored react boiler plate with eslint and sass integration.
+# Frontend Mentor - FAQ accordion card
+[Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
